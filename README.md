@@ -12,5 +12,6 @@ I have *many* **passions** and find a lot of things enjoyable. For the sake of s
 |Photography📸| `##Still Learning More!`| [Satellite Reciever](https://github.com/ElectronicsDoesRudy/Space_Tech) & [Reinforcement Learning Drone](https://github.com/ElectronicsDoesRudy/Drone-technology) (Working on Planning and idea generation)
 
 >For more info about my **Education**, **Awards**, **Acomplishments** and a **Face Reveal** do check out my [LinkedIn Profile](https://www.linkedin.com/in/-rudransh-arora-/)
+
 >*A lot of people often associate excessive emoji use with LLMs, you will be happy to know everything I put out as my own is 100% human generated except when stated explicitly otherwise* 
 # Thats it 4 me 😀- feel free to take a look around 👁️
