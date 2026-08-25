@@ -7,7 +7,7 @@ I have *many* **passions** and find a lot of things enjoyable. For the sake of s
 |----------------|-------------------------------|-----------------------------|
 |Drumming 🥁|`Python 🐍`            |[Line Following Rover](https://github.com/ElectronicsDoesRudy/Ektashif)            |
 |Swimming  🏊        |`C++ 🌊➕➕`            |[Roughly 30 miniprojects ](https://github.com/ElectronicsDoesRudy/Small-Project-Files)(code only, 30 more to come!!!)            |
-|Gaming 🎮 & Coding Games 👾   |`MatPlotLib🟰🤔📚, Seaborn🐳`|[Circuits and Systems Projects](https://github.com/ElectronicsDoesRudy/Small-Project-Files/issues)|
+|Gaming 🎮 & Coding Games 👾   |`MatPlotLib🟰🤔📚, Seaborn🐳 and NumPy🔢🥧`|[Circuits and Systems Projects](https://github.com/ElectronicsDoesRudy/Small-Project-Files/issues)|
 |Muai Thai 🥊          |`PyTorch🔦, Pandas🐼`|[AgriTech Robot](https://github.com/ElectronicsDoesRudy/Rover-Technology)(In Progress)|
 |Photography📸| `##Still Learning More!`| [Satellite Reciever](https://github.com/ElectronicsDoesRudy/Space_Tech) & [Reinforcement Learning Drone](https://github.com/ElectronicsDoesRudy/Drone-technology) (Working on Planning and idea generation)
 
