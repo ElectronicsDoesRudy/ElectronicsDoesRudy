@@ -1,5 +1,5 @@
 # Welcome to My Profile! ○( ＾皿＾)っ 
-Hi! My name is **Rudransh Arora**, although typically I go by **Rudy**. Currently I am an [IBDP](https://ibo.org/programmes/diploma-programme/) student studying @ [NLCSD](https://nlcsdubai.ae/). I am a **programmer**, **lover of engineering**, **proud Indian** and fan of the **[Platonist methodology of thinking](https://en.wikipedia.org/wiki/Platonism)**.
+Hi! My name is **Rudransh Arora**, although typically I go by **Rudy**. Currently I am an [IBDP](https://ibo.org/programmes/diploma-programme/) student studying @ [NLCSD](https://nlcsdubai.ae/). I am a **programmer**, **lover of engineering** and **proud Indian**.
 
 I have *many* **passions** and find a lot of things enjoyable. For the sake of space I have decided to put the 3 most descriptive facts about me as a member of GitHub in a table below.
 
