@@ -6,7 +6,7 @@ I have *many* **passions** and find a lot of things enjoyable. Some info abt me 
 |Programming Languagues & libraries(⌐■_■)           | Projects ƪ(˘⌣˘)ʃ                |
 |-------------------------------|-----------------------------|
 |`Python, PyTorch, Pandas`            |[Line Following Rover](https://github.com/ElectronicsDoesRudy/Ektashif)            |
- |`C++ `            |[30ish miniprojects ](https://github.com/ElectronicsDoesRudy/Small-Project-Files)            |
+ |`C++, OpenCV, sklearn `            |[30ish miniprojects ](https://github.com/ElectronicsDoesRudy/Small-Project-Files)            |
  |`MatPlotLib, Seaborn and NumPy`|[Circuits and Systems Projects](https://github.com/ElectronicsDoesRudy/Small-Project-Files/issues)|
 
 
