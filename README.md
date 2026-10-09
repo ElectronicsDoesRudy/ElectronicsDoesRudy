@@ -5,9 +5,9 @@ I have *many* **passions** and find a lot of things enjoyable. some info abt me 
 
 |Programming Languagues & libraries(⌐■_■)           | Projects ƪ(˘⌣˘)ʃ                |
 |-------------------------------|-----------------------------|
-|`Python 🐍`            |[Line Following Rover](https://github.com/ElectronicsDoesRudy/Ektashif)            |
- |`C++ 🌊➕➕`            |[30ish miniprojects ](https://github.com/ElectronicsDoesRudy/Small-Project-Files)            |
- |`MatPlotLib🟰🤔📚, Seaborn🐳 and NumPy🔢🥧`|[Circuits and Systems Projects](https://github.com/ElectronicsDoesRudy/Small-Project-Files/issues)|
- |`PyTorch🔦, Pandas🐼`|[AgriTech Robot](https://github.com/ElectronicsDoesRudy/Rover-Technology)(In Progress)|
-| `##Still Learning More!`| [Satellite Reciever](https://github.com/ElectronicsDoesRudy/Space_Tech) & [Reinforcement Learning Drone](https://github.com/ElectronicsDoesRudy/Drone-technology) (Working on Planning and idea generation)
+|`Python, PyTorch, Pandas`            |[Line Following Rover](https://github.com/ElectronicsDoesRudy/Ektashif)            |
+ |`C++ `            |[30ish miniprojects ](https://github.com/ElectronicsDoesRudy/Small-Project-Files)            |
+ |`MatPlotLib, Seaborn and NumPy`|[Circuits and Systems Projects](https://github.com/ElectronicsDoesRudy/Small-Project-Files/issues)|
+
+
 
